@@ -1,5 +1,5 @@
 # cloudflare-bypass
 A python script to bypass cloudflare
 
-# USAGE MODE
+# Usage mode
 python3 scanner.py "<url>"
